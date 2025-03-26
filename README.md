@@ -9,15 +9,18 @@
 ###
 <hr>
 <div>
-  <h1 align="center">FiveM Project i created/helped</h1>
+  <h1 align="center">FiveM Project's I created/helped and currently creating/helping</h1>
     <ul>
         <li>Future Developer/Management</li>
         <li>Westlife Owner</li>
         <li>Westkust Developer</li>
         <li>MRP Developer</li>
         <li>Ruthless Developer</li>
-        <li>Noorderhaven Developer</li>
         <li>TakeOff Owner</li>
+        <hr>
+        <li>Noorderhaven Lead Developer</li>
+        <li>Ace Lead Developer</li>
+        <li>Codex Owner</li>
     </ul>
 </div>
 <hr>
