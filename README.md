@@ -11,7 +11,7 @@
 <div>
   <h1 align="center">FiveM Project's I created/helped and currently creating/helping</h1>
     <ul>
-        <li><b>Reallife Roleplay Development</b><li>
+        <li><b>Reallife Roleplay Development</b></li>
         <li>Future Developer/Management</li>
         <li>Westlife Owner</li>
         <li>Westkust Developer</li>
